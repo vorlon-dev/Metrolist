@@ -1,8 +1,31 @@
 <div align="center">
 
-<img src="fastlane/metadata/android/en-US/images/icon.png" alt="Metrolist app icon" width="200" />
+<img src="fastlane/metadata/android/en-US/images/icon.png" alt="Zen app icon" width="200" />
 
-# Metrolist
+# Zen
+
+### A YouTube Music client for Android — based on Metrolist
+
+</div>
+
+> [!NOTE]
+> **Zen** is a fork of [Metrolist](https://github.com/MetrolistGroup/Metrolist) (v13.7.0 codebase), licensed under the **GNU GPL-3.0**.
+>
+> Changes made in this fork:
+> - App renamed **Metrolist → Zen**
+> - Application ID changed to **`zen.pratam.com`**
+> - Version numbering reset to **1.0.0**
+> - Built-in Metrolist updater disabled
+>
+> All credit for the original app goes to the [Metrolist team and contributors](https://github.com/MetrolistGroup/Metrolist/graphs/contributors), and to the InnerTune and OuterTune projects it builds on. In accordance with GPL-3.0, Zen keeps the same license and publishes its full source code in this repository.
+
+---
+
+<div align="center">
+
+# Original Metrolist README
+
+<img src="fastlane/metadata/android/en-US/images/icon.png" alt="Metrolist app icon" width="200" />
 
 ### YouTube Music client for Android
 
@@ -207,7 +230,7 @@
 <h3>We use Weblate to translate Metrolist. <a href="https://hosted.weblate.org/projects/Metrolist/">Help us bring Metrolist to more people!</a></h3>
 
 <a href="https://hosted.weblate.org/projects/Metrolist/">
-  <img src="https://hosted.weblate.org/widget/Metrolist/horizontal-auto.svg" alt="Translation status" />
+  <img src="https://hosted.weblate.org/projects/Metrolist/widget/horizontal-auto.svg" alt="Translation status" />
 </a>
 
 <h3>Thank you! Every translation makes Metrolist a little more accessible to someone, somewhere in the world.</h3>
